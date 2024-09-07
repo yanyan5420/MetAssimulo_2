@@ -5,14 +5,9 @@ This repository contains all the necessary code for the MetAssimulo 2 project. P
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your system:
-- **Git**: Necessary for cloning the repository.
-- **Anaconda or Miniconda**: Required to manage the project dependencies.
+- **Git**: Necessary for cloning the repository. If you do not have Git installed, please follow the instructions on the [Git official site](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- **Anaconda or Miniconda**: Required to manage the project dependencies. Download and install it from the [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for a lighter installation.
 
-### Installing Git
-If you do not have Git installed, please follow the instructions on the [Git official site](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install it on your operating system.
-
-### Installing Anaconda
-Anaconda is recommended for setting up and managing the project dependencies. Download and install it from the [official Anaconda website](https://www.anaconda.com/products/distribution). Alternatively, if you prefer a lighter installation, you may opt for Miniconda, available [here](https://docs.conda.io/en/latest/miniconda.html).
 
 ## Installation
 
