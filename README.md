@@ -59,3 +59,9 @@ conda activate py37_metassimulo_2_env
 set PYTHONPATH=%cd%;%PYTHONPATH%
 python apps\index.py -p Input\parameters.txt
 ```
+## Access the Web App
+After successfully running the project using the above provided commands, you should see a message indicating: 
+
+`Dash is running on http://127.0.0.1:8060/`
+
+Just simply ***copy and open this URL*** in your browser, then start simulating NMR spectra!
