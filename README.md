@@ -44,6 +44,7 @@ python apps\index.py -p Input\parameters.txt
 
 ## Usage
 After setting up the environment as described above, you can run the project by navigating to the project directory and running the application:
+
 for Linux and macOS:
 ```
 cd /path/to/MetAssimulo_2
